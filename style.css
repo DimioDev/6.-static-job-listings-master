@@ -144,7 +144,7 @@ button:hover,
 	background-color: hsl(180, 31%, 95%);
 	margin: 0 auto;
 	box-shadow: 2px 2px 4px 4px hsl(0, 0%, 59%, 0.4);
-	margin-bottom: 3rem;
+	margin-bottom: 4rem;
 }
 .card:focus,
 .card:hover {
@@ -283,6 +283,7 @@ button.primary:hover {
 		padding-left: 0.4rem;
 	}
 	.card {
+		margin-bottom: 1rem;
 		position: relative;
 		z-index: 2;
 		display: flex;
